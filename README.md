@@ -80,9 +80,8 @@ Spot categories where expenses consistently exceed expectations.
 
 Visualize whether income growth aligns with expense trends.
 
-**👤 Author
+👤 Author
 Bajithu R
 MBA in Finance & Business Analysis
 Skilled in Power BI, Excel, and Financial Modeling
 [Connect with me on LinkedIn](https://www.linkedin.com/in/bajithu-r/)
-**
