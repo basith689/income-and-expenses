@@ -84,4 +84,5 @@ Visualize whether income growth aligns with expense trends.
 Bajithu R
 MBA in Finance & Business Analysis
 Skilled in Power BI, Excel, and Financial Modeling
-linkedin.com/in/bajithu-r/**
+[Connect with me on LinkedIn](https://www.linkedin.com/in/bajithu-r/)
+**
